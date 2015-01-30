@@ -1,0 +1,5 @@
+.syntaxhighlighter table {
+
+    /* Fixes TwentyFifteen bug */
+    table-layout: auto !important;
+}
